@@ -1,5 +1,4 @@
 <div align="center">
-  <!-- <img src="https://capsule-render.vercel.app/render?type=waving&color=0e75b6&height=200&section=header&text=Waqar%20Rajpoot&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" /> -->
 
   <h3> 👨‍💻 Full-Stack Developer | MERN & Next.js Expert </h3>
   <p><b>Specializing in high-performance, production-ready applications</b></p>
@@ -46,9 +45,9 @@ I am a **Full-Stack Developer & Problem Solver** based in **Sahiwal, Punjab**. A
       </td>
       <td valign="top" width="50%">
         <b>Specialized Skills</b><br/>
-        [cite_start]• NextAuth.js (Auth.js) [cite: 10]<br/>
-        • Zod Validation [cite: 10]<br/>
-        • Aggregation Pipelines [cite: 9]
+        • NextAuth.js (Auth.js) <br/>
+        • Zod Validation <br/>
+        • Aggregation Pipelines
       </td>
     </tr>
   </table>
@@ -59,31 +58,21 @@ I am a **Full-Stack Developer & Problem Solver** based in **Sahiwal, Punjab**. A
 ### 💻 Production-Ready Projects
 
 #### 🩸 [Blood Logistics Platform](https://blood-logistic-platform.vercel.app/)
-* [cite_start]**Real-time Logistics:** Engineered a platform to bridge donor-receiver gaps using **live geolocation** and real-time distance calculations[cite: 23, 24].
-* [cite_start]**Database Integrity:** Architected complex logic with **atomic MongoDB updates** to ensure inventory integrity during high-concurrency transactions[cite: 25].
-* [cite_start]**Security:** Developed secure **RBAC** using NextAuth custom session callbacks to verify donor eligibility[cite: 26].
-* [cite_start]**Performance:** Optimized workflows with a mobile-first dashboard built with **React Server Components**[cite: 27].
+* **Real-time Logistics:** Engineered a platform to bridge donor-receiver gaps using **live geolocation** and real-time distance calculations.
+* **Database Integrity:** Architected complex logic with **atomic MongoDB updates** to ensure inventory integrity during high-concurrency transactions.
+* **Security:** Developed secure **RBAC** using NextAuth custom session callbacks to verify donor eligibility.
+* **Performance:** Optimized workflows with a mobile-first dashboard built with **React Server Components**.
 
 #### 🍕 [Luminous Bistro | Food Ordering Platform](https://luminous-food-ordering.vercel.app/)
-* [cite_start]**Dynamic Management:** Developed a full **CRUD menu system** for real-time item and pricing updates[cite: 29, 30].
-* [cite_start]**Business Logic:** Implemented seasonal offer logic and promotional code validation[cite: 31].
-* [cite_start]**Premium UI:** Leveraged **Tailwind CSS** and **Shadcn/UI** for a responsive interface with **SSR** for instant loads[cite: 32].
+* **Dynamic Management:** Developed a full **CRUD menu system** for real-time item and pricing updates.
+* **Business Logic:** Implemented seasonal offer logic and promotional code validation.
+* **Premium UI:** Leveraged **Tailwind CSS** and **Shadcn/UI** for a responsive interface with **SSR** for instant loads.
 
 ---
 
 ### 📊 GitHub Insights & Activity
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=waqar-rajpoot&show_icons=true&theme=nord&hide_border=true&title_color=0e75b6&icon_color=0e75b6" />
-      </td>
-      <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=waqar-rajpoot&layout=compact&theme=nord&hide_border=true&title_color=0e75b6" />
-      </td>
-    </tr>
-  </table>
   
   <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=waqar-rajpoot&theme=nord&hide_border=true&stroke=0e75b6&ring=0e75b6&fire=0e75b6&currStreakLabel=0e75b6" />
   
