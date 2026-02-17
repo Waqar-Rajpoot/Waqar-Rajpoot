@@ -81,11 +81,3 @@ I am a **Full-Stack Developer & Problem Solver** based in **Sahiwal, Punjab**. A
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=waqar-rajpoot&bg_color=00000000&color=0e75b6&line=0e75b6&point=777&area=true&hide_border=true" width="100%" />
 </div>
 
----
-
-### 🏆 Achievements
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=waqar-rajpoot&theme=flat&column=7&no-bg=true" alt="trophies" />
-  </a>
-</p>
