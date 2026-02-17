@@ -17,44 +17,61 @@
 
 ### 🚀 About Me
 
-[cite_start]I am a **Self-taught Full-Stack Developer** and problem solver based in **Sahiwal, Pakistan**[cite: 6, 19]. [cite_start]I specialize in bridging logistics gaps through tech, from live geolocation tracking to complex database management[cite: 20, 21].
+[cite_start]I am a **Full-Stack Developer & Problem Solver** based in **Sahiwal, Punjab**[cite: 1, 6, 18]. [cite_start]As a **self-taught developer**, I have a proven track record of transitioning theoretical knowledge into high-impact, production-ready applications. [cite_start]I specialize in **MERN Stack and Next.js**, with a particular focus on bridging logistics gaps—from live geolocation tracking to complex database management and secure authentication[cite: 18, 20, 21].
 
-* [cite_start]🔭 **Current Project:** [Luminous Bistro](https://luminous-food-ordering.vercel.app/) – A premium food ordering platform with dynamic CRUD and SSR[cite: 29, 30, 33].
-* [cite_start]🎓 **Education:** Pursuing **BSIT** at Govt College Sahiwal (2021-2025).
-* [cite_start]💡 **Expertise:** Bridging the gap between theoretical knowledge and high-impact, production-ready code[cite: 19].
-* [cite_start]⚡ **Core Focus:** Building secure, scalable systems using **Next.js Server Actions**, **NextAuth.js**, and **Atomic MongoDB Updates**.
+* [cite_start]🎓 **Education:** Pursuing **BSIT** at Govt College Sahiwal (Session 2021-25).
+* 💡 **Mission:** To build scalable, secure systems that solve real-world problems.
+* [cite_start]⚡ **Core Expertise:** **Next.js Server Actions**, **Atomic MongoDB Updates**, and **Role-Based Access Control (RBAC)**[cite: 9, 10, 26].
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Professional Tech Stack
 
 <div align="left">
-  <b>Frontend & Frameworks</b><br/>
-  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,html,css&theme=dark" />
-  <br/><br/>
-  <b>Backend & Database</b><br/>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,redis&theme=dark" />
-  <br/><br/>
-  <b>Tools & Dev-Ops</b><br/>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,vercel,postman,linux,c,cpp&theme=dark" />
+  <table>
+    <tr>
+      <td valign="top" width="50%">
+        <b>Frontend & UI</b><br/>
+        <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css&theme=dark" />
+      </td>
+      <td valign="top" width="50%">
+        <b>Backend & DB</b><br/>
+        <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,redis&theme=dark" />
+      </td>
+    </tr>
+    <tr>
+      <td valign="top" width="50%">
+        <b>Tools & Security</b><br/>
+        <img src="https://skillicons.dev/icons?i=git,github,vercel,postman,linux,c,cpp&theme=dark" />
+      </td>
+      <td valign="top" width="50%">
+        <b>Specialized Skills</b><br/>
+        [cite_start]• NextAuth.js (Auth.js) [cite: 10]<br/>
+        • Zod Validation [cite: 10]<br/>
+        • Aggregation Pipelines [cite: 9]
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
 
-### 💻 Featured Projects
+### 💻 Production-Ready Projects
 
 #### 🩸 [Blood Logistics Platform](https://blood-logistic-platform.vercel.app/)
-* [cite_start]**Real-time Tech:** Engineered with live geolocation and real-time distance calculations to bridge donor-receiver gaps[cite: 24].
-* [cite_start]**Security:** Implemented **RBAC** via NextAuth custom sessions to protect sensitive data[cite: 26].
-* [cite_start]**Performance:** Optimized workflows with a mobile-first dashboard using **React Server Components**[cite: 27].
+* [cite_start]**Real-time Logistics:** Engineered a platform to bridge donor-receiver gaps using **live geolocation** and real-time distance calculations[cite: 23, 24].
+* [cite_start]**Database Integrity:** Architected complex logic with **atomic MongoDB updates** to ensure inventory integrity during high-concurrency transactions[cite: 25].
+* [cite_start]**Security:** Developed secure **RBAC** using NextAuth custom session callbacks to verify donor eligibility[cite: 26].
+* [cite_start]**Performance:** Optimized workflows with a mobile-first dashboard built with **React Server Components**[cite: 27].
 
-#### 🍕 [Luminous Bistro](https://luminous-food-ordering.vercel.app/)
-* [cite_start]**Dynamic UX:** Developed a full CRUD menu system with instant page loads via **Server-Side Rendering (SSR)**[cite: 30, 32].
-* [cite_start]**Business Logic:** Integrated seasonal offer logic and promotional code validation[cite: 31].
+#### 🍕 [Luminous Bistro | Food Ordering Platform](https://luminous-food-ordering.vercel.app/)
+* [cite_start]**Dynamic Management:** Developed a full **CRUD menu system** for real-time item and pricing updates[cite: 29, 30].
+* [cite_start]**Business Logic:** Implemented seasonal offer logic and promotional code validation[cite: 31].
+* [cite_start]**Premium UI:** Leveraged **Tailwind CSS** and **Shadcn/UI** for a responsive interface with **SSR** for instant loads[cite: 32].
 
 ---
 
-### 📊 GitHub Insights
+### 📊 GitHub Insights & Activity
 
 <div align="center">
   <table border="0">
@@ -69,17 +86,17 @@
   </table>
   
   <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=waqar-rajpoot&theme=nord&hide_border=true&stroke=0e75b6&ring=0e75b6&fire=0e75b6&currStreakLabel=0e75b6" />
+  
+  <br/>
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=waqar-rajpoot&bg_color=00000000&color=0e75b6&line=0e75b6&point=777&area=true&hide_border=true" width="100%" />
 </div>
 
 ---
 
-### 🏆 Achievements & Activity
+### 🏆 Achievements
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=waqar-rajpoot&theme=flat&column=7&no-bg=true" alt="trophies" />
   </a>
-</p>
-
-<p align="center"> 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=waqar-rajpoot&bg_color=00000000&color=0e75b6&line=0e75b6&point=777&area=true&hide_border=true" width="100%" />
 </p>
