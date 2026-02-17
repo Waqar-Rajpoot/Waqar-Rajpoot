@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=0e75b6&height=200&section=header&text=Waqar%20Rajpoot&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" />
+  <!-- <img src="https://capsule-render.vercel.app/render?type=waving&color=0e75b6&height=200&section=header&text=Waqar%20Rajpoot&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" /> -->
 
   <h3> 👨‍💻 Full-Stack Developer | MERN & Next.js Expert </h3>
   <p><b>Specializing in high-performance, production-ready applications</b></p>
@@ -17,11 +17,11 @@
 
 ### 🚀 About Me
 
-[cite_start]I am a **Full-Stack Developer & Problem Solver** based in **Sahiwal, Punjab**[cite: 1, 6, 18]. [cite_start]As a **self-taught developer**, I have a proven track record of transitioning theoretical knowledge into high-impact, production-ready applications. [cite_start]I specialize in **MERN Stack and Next.js**, with a particular focus on bridging logistics gaps—from live geolocation tracking to complex database management and secure authentication[cite: 18, 20, 21].
+I am a **Full-Stack Developer & Problem Solver** based in **Sahiwal, Punjab**. As a **self-taught developer**, I have a proven track record of transitioning theoretical knowledge into high-impact, production-ready applications. I specialize in **MERN Stack and Next.js**, with a particular focus on bridging logistics gaps—from live geolocation tracking to complex database management and secure authentication.
 
-* [cite_start]🎓 **Education:** Pursuing **BSIT** at Govt College Sahiwal (Session 2021-25).
+* 🎓 **Education:** Pursuing **BSIT** at Govt College Sahiwal (Session 2021-25).
 * 💡 **Mission:** To build scalable, secure systems that solve real-world problems.
-* [cite_start]⚡ **Core Expertise:** **Next.js Server Actions**, **Atomic MongoDB Updates**, and **Role-Based Access Control (RBAC)**[cite: 9, 10, 26].
+* ⚡ **Core Expertise:** **Next.js Server Actions**, **Atomic MongoDB Updates**, and **Role-Based Access Control (RBAC)**.
 
 ---
 
